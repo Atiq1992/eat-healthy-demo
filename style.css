@@ -1,0 +1,38 @@
+
+body{
+    font-family: 'Kanit', sans-serif;
+}
+
+.flexible-container{
+    display: flex;
+    margin-bottom: 40px;
+}
+
+.shape1{
+    position: absolute;
+    right: 0px;
+    height: 600px;
+    width: 600px;
+}
+.image2{
+    position: absolute;
+    right: 0px;
+    height: 550px;
+    width: 550px;
+}
+.button {
+    background-image: linear-gradient(orange, tomato);
+    border: none;
+    color: white;
+    padding: 20px 40px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-weight: bolder;
+    margin-left:  70px;
+    margin-top: 25px;
+  }
+  .button4 {border-radius: 40px;}
